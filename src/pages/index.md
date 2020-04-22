@@ -2,7 +2,7 @@
 templateKey: index-page
 title: "मशाल "
 image: /img/igor-lepilin-fjmpfkvayza-unsplash.jpg
-heading: "वैदिक समाधान "
+heading: "ॐ "
 subheading: "आह्वान परम  चेतना का "
 mainpitch:
   title: "आज की आवश्यकता "
