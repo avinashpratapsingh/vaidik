@@ -1,14 +1,12 @@
 ---
 templateKey: index-page
-title: "वैदिक समाधान गुरुकुलम "
-image: /img/home-jumbotron.jpg
+title: "मशाल "
+image: /img/igor-lepilin-fjmpfkvayza-unsplash.jpg
 heading: "वैदिक समाधान "
-subheading: "आपके जीवन की सभी समस्यायों का समाधान "
+subheading: "आह्वान परम  चेतना का "
 mainpitch:
   title: "आज की आवश्यकता "
-  description: >
-    आज आपकी पुत्री अथवा पुत्र यीशु कुल में पढ़ रहा है आपको उसे गुरुकुल में लाना
-    है ।
+  description: "समय की नयी करवट "
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
